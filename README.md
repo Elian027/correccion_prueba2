@@ -1,5 +1,7 @@
 # correccion_prueba2
 
+Link de video: https://vm.tiktok.com/ZMYAphwQa/ 
+
 Creación de tabla estudiantes
 
 ![image](https://user-images.githubusercontent.com/117754199/221088695-c22690ac-213d-4feb-97f0-30aa87d52918.png)
